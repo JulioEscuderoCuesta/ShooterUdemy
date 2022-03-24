@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2855b12ccf4ceca4288cd1d95de928af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hideDelay: 2
+  hideDelay: 10
 --- !u!114 &4787489775296192433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63,7 +63,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c28305a4ba484c247b5e01410d9159bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 2
 --- !u!114 &2826267430552084682
 MonoBehaviour:
   m_ObjectHideFlags: 0
